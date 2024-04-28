@@ -1,5 +1,3 @@
-@import './general.css';
-
-@import './wheel.css';
-
-@import './legend.css';
+@import "./layout.css";
+@import "./wheel.css";
+@import "./legend.css";

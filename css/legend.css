@@ -2,20 +2,20 @@
 .legend {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
     align-items: flex-start;
-
 }
-.legend-ul li {
-    cursor: pointer;
+.legend .list-group {
+    max-height: 20rem;
 }
-.legend-ul span {
+.legend .list-group span {
     border-radius: 5px;
     display: inline-block;
     height: 10px;
     margin-right: 10px;
     width: 10px;
 }
-.legend-hidden, .legend-hidden:hover {
+.legend-hidden {
+    color: var(--bs-danger) !important;
     text-decoration: line-through !important;
 }
