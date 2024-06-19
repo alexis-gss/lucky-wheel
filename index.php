@@ -55,7 +55,7 @@
             <div class="col-12 col-lg-4 mb-5 mb-lg-0 p-1">
                 <!-- FORMULARY -->
                 <form action="./index.php" method="GET" class="">
-                    <label for="#wheel-values" class="form-label fw-bold">
+                    <label for="#wheelValues" class="form-label fw-bold">
                         Enter some values
                         <span data-bs-toggle="tooltip"
                             title="The entered some values that will be added to the wheel, respect the format: name1,name2,name3...">
@@ -63,11 +63,15 @@
                         </span>
                     </label>
                     <div class="input-group d-flex flex-row justify-content-center align-items-center">
-                        <input id="wheel-values" type="text" name="selection" class="form-control"
+                        <input id="wheelValues" type="text" name="selection" class="form-control"
                             placeholder="name1,name2,name3..." value="<?php if (isset($_GET['selection'])) {
                                 echo $_GET['selection'];
                             } ?>" autofocus required>
-                        <button id="wheel-values-btn" type="submit" data-bs-toggle="tooltip" class="btn btn-outline-primary"
+                        <button id="wheelValuesClear" type="button" data-bs-toggle="tooltip" class="btn btn-outline-dark"
+                            title="Reset the entered values">
+                            <i class="fa-solid fa-xmark"></i>
+                        </button>
+                        <button type="submit" data-bs-toggle="tooltip" class="btn btn-outline-primary"
                             title="Add values you have entered to the wheel">
                             <i class="fa-solid fa-arrow-right"></i>
                         </button>
@@ -89,12 +93,12 @@
                             </button>
                         </div>
                         <script> var target = <?php echo json_encode($entries); ?>; </script>
-                        <script type="text/javascript" src="./js/main.js"></script>
+                        <script type="text/javascript" src="./js/wheel.js"></script>
                     </div>
                 <?php } ?>
             </div>
         </div>
     </section>
-    <script type="text/javascript" src="./js/tooltips.js"></script>
+    <script type="text/javascript" src="./js/main.js"></script>
 </body>
 </html>
