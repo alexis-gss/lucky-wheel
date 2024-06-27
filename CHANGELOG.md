@@ -6,6 +6,13 @@ All notable changes to `lucky-wheel` will be documented in this file.
 - This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html),
 - Commits respect [Conventionnal commits](https://www.conventionalcommits.org/en/v1.0.0/) & use [Gitmoji](https://gitmoji.dev/).
 
+## **[v2.0.1] - 27.06.24**
+
+### Added
+-   feat: ✨ add website test badge in README.md
+
+Full Changelog: https://github.com/alexis-gss/lucky-wheel/compare/v2.0.0...v2.0.1
+
 ## **[v2.0.0] - 19.06.24**
 
 ### Added
