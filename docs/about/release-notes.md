@@ -22,6 +22,16 @@ All notable changes to [Lucky Wheel](http://lucky-wheel.alexis-gousseau.com/) ar
 * Commits respect [Conventionnal commits](https://www.conventionalcommits.org/en/v1.0.0/) & use [Gitmoji](https://gitmoji.dev/).
 {% endhint %}
 
+## \[v2.0.2] - 02/07/2024
+
+### Changed
+
+* docs: 📝 update images saved
+
+Full changelog: [https://github.com/alexis-gss/lucky-wheel/compare/v1.0.0...v2.0.0](https://github.com/alexis-gss/lucky-wheel/compare/v1.0.0...v2.0.0)
+
+***
+
 ## \[v2.0.1] - 27/06/2024
 
 ### Added <a href="#added" id="added"></a>
@@ -33,6 +43,8 @@ All notable changes to [Lucky Wheel](http://lucky-wheel.alexis-gousseau.com/) ar
 * docs: 📝 update release page and images
 
 Full changelog: [https://github.com/alexis-gss/lucky-wheel/compare/v1.0.0...v2.0.0](https://github.com/alexis-gss/lucky-wheel/compare/v1.0.0...v2.0.0)
+
+***
 
 ## \[v2.0.0] - 19/06/2024
 

@@ -30,13 +30,13 @@ To make the wheel work, you need to enter values in a specific format, which cor
 
 Once the values have been entered and the form sent, the same information is retrieved via the _**selection**_ parameter in the url, given that the sending method is GET. In this way, the user can save or share the link with the values already entered, and spin the wheel directly.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Lucky Wheel - url parameter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Lucky Wheel - url parameter</p></figcaption></figure>
 
 ## Chart
 
 Once the values have been entered and sent, the graph is constructed using them, and the user can spin the wheel of fortune by clicking on the central _**SPIN**_ button.
 
-<figure><img src="../.gitbook/assets/wheel.png" alt=""><figcaption><p>Lucky Wheel - chart of the wheel</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/wheel.gif" alt=""><figcaption><p>Lucky Wheel - chart of the wheel</p></figcaption></figure>
 
 When this action is executed, a rotation is applied not to the graphic in the canvas, but rather to the canvas itself, to give the illusion that the wheel is rotating.
 
