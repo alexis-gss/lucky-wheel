@@ -35,7 +35,7 @@ You can find all the documentation of this project on this link : [Lucky Wheel d
 
 # Changelog
 
-Latest version v2.0.1.
+Latest version v2.0.2.
 
 See the [CHANGELOG.md](CHANGELOG.md) file for details.
 
