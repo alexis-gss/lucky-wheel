@@ -22,13 +22,23 @@ All notable changes to [Lucky Wheel](http://lucky-wheel.alexis-gousseau.com/) ar
 * Commits respect [Conventionnal commits](https://www.conventionalcommits.org/en/v1.0.0/) & use [Gitmoji](https://gitmoji.dev/).
 {% endhint %}
 
+## \[v2.0.3] - 04/09/2024
+
+### Changed
+
+* docs: 📝 add license badge in readme
+
+Full changelog: [https://github.com/alexis-gss/lucky-wheel/compare/v2.0.2...v2.0.3](https://github.com/alexis-gss/lucky-wheel/compare/v2.0.2...v2.0.3)
+
+***
+
 ## \[v2.0.2] - 02/07/2024
 
 ### Changed
 
 * docs: 📝 update images saved
 
-Full changelog: [https://github.com/alexis-gss/lucky-wheel/compare/v1.0.0...v2.0.0](https://github.com/alexis-gss/lucky-wheel/compare/v1.0.0...v2.0.0)
+Full changelog: [https://github.com/alexis-gss/lucky-wheel/compare/v2.0.1...v2.0.2](https://github.com/alexis-gss/lucky-wheel/compare/v2.0.1...v2.0.2)
 
 ***
 
@@ -42,7 +52,7 @@ Full changelog: [https://github.com/alexis-gss/lucky-wheel/compare/v1.0.0...v2.0
 
 * docs: 📝 update release page and images
 
-Full changelog: [https://github.com/alexis-gss/lucky-wheel/compare/v1.0.0...v2.0.0](https://github.com/alexis-gss/lucky-wheel/compare/v1.0.0...v2.0.0)
+Full changelog: [https://github.com/alexis-gss/lucky-wheel/compare/v2.0.0...v2.0.1](https://github.com/alexis-gss/lucky-wheel/compare/v2.0.0...v2.0.1)
 
 ***
 
