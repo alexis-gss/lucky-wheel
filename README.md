@@ -20,6 +20,10 @@ In fact, you can define a list of elements that will be distributed on the wheel
 - [Table of contents](#table-of-contents)
 - [Frameworks, Platforms and Libraries](#frameworks-platforms-and-libraries)
 - [Documentation](#documentation)
+- [Contributing](#contributing)
+    - [Create a task](#create-a-task)
+    - [Fixing a Bug](#fixing-a-bug)
+    - [Proposing a Change](#proposing-a-change)
 - [Changelog](#changelog)
 - [Copyright and License](#copyright-and-license)
 
@@ -33,6 +37,22 @@ In fact, you can define a list of elements that will be distributed on the wheel
 # Documentation
 
 You can find all the documentation of this project on this link : [Lucky Wheel documentation](https://docs-lucky-wheel.alexis-gousseau.com).
+
+# Contributing
+
+### Create a task
+
+You can create a [new issue](https://github.com/alexis-gss/lucky-wheel/issues/new/choose) with a specific templates : bug or feature.
+
+Once your code is working, please verify that your code is following the same coding standards.
+
+### Fixing a Bug
+
+When fixing a bug please make sure to test it in several browsers. If you are not able to do so, mention that in a PR comment, so other contributors can do it.
+
+### Proposing a Change
+
+When implementing a feature please create an issue first explaining your idea and asking whether there's need for such a feature. Remember the script's core philosophy is to stay simple and minimal, doing one thing and doing it right.
 
 # Changelog
 
