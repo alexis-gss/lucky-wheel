@@ -5,7 +5,7 @@
 [![Website test](https://img.shields.io/website-up-down-green-red/https/lucky-wheel.alexis-gousseau.com?style=for-the-badge)](https://lucky-wheel.alexis-gousseau.com)
 [![GitHub latest commit](https://img.shields.io/github/last-commit/alexis-gss/lucky-wheel/develop?color=FFFFFF&style=for-the-badge)](https://github.com/alexis-gss/lucky-wheel/commit/master)
 [![GitHub tag](https://img.shields.io/github/tag/alexis-gss/lucky-wheel?style=for-the-badge&color=FFFFFF)](https://github.com/alexis-gss/lucky-wheel/tags)
-[![GitHub License](https://img.shields.io/github/license/alexis-gss/laravel-unit-tests?color=FFFFFF&style=for-the-badge)](https://packagist.org/packages/alexis-gss/laravel-unit-tests)
+[![GitHub License](https://img.shields.io/github/license/alexis-gss/lucky-wheel?color=FFFFFF&style=for-the-badge)](https://github.com/alexis-gss/lucky-wheel/blob/master/LICENSE)
 
 </div>
 
@@ -56,7 +56,7 @@ When implementing a feature please create an issue first explaining your idea an
 
 # Changelog
 
-Latest version v2.0.3.
+Latest version v2.0.4.
 
 See the [CHANGELOG.md](CHANGELOG.md) file for details.
 

@@ -6,9 +6,18 @@ All notable changes to `lucky-wheel` will be documented in this file.
 - This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html),
 - Commits respect [Conventionnal commits](https://www.conventionalcommits.org/en/v1.0.0/) & use [Gitmoji](https://gitmoji.dev/).
 
+## **[v2.0.4] - 13.12.24**
+
+### Changed
+-   ci: 👷 update github issue/pull request templates & workflows
+-   docs: 📝 add some documentations (code of conduct, contributing, security)
+
+Full changelog: https://github.com/alexis-gss/lucky-wheel/compare/v2.0.3...v2.0.4
+
 ## **[v2.0.3] - 04.09.24**
 
 ### Changed
+-   ci: 👷 update github issue templates & workflows
 -   docs: 📝 add license badge in readme
 
 Full changelog: https://github.com/alexis-gss/lucky-wheel/compare/v2.0.2...v2.0.3
