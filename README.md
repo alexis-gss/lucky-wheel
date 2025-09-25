@@ -32,7 +32,6 @@ In fact, you can define a list of elements that will be distributed on the wheel
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Gitbook](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.gitbook.com/)
 
 # Documentation
 
@@ -56,7 +55,7 @@ When implementing a feature please create an issue first explaining your idea an
 
 # Changelog
 
-Latest version v2.0.4.
+Latest version [v2.0.5](https://github.com/alexis-gss/lucky-wheel/releases/tag/v2.0.5).
 
 See the [CHANGELOG.md](CHANGELOG.md) file for details.
 
