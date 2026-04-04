@@ -35,7 +35,7 @@ In fact, you can define a list of elements that will be distributed on the wheel
 
 # Documentation
 
-You can find all the documentation of this project on this link : [Lucky Wheel documentation](https://docs-lucky-wheel.alexis-gousseau.com).
+You can find all the documentation of this project on this link : [Lucky Wheel documentation](https://doc-lucky-wheel.alexis-gousseau.com).
 
 # Contributing
 
@@ -55,12 +55,12 @@ When implementing a feature please create an issue first explaining your idea an
 
 # Changelog
 
-Latest version [v2.0.5](https://github.com/alexis-gss/lucky-wheel/releases/tag/v2.0.5).
+Latest version [v2.1.0](https://github.com/alexis-gss/lucky-wheel/releases/tag/v2.1.0).
 
 See the [CHANGELOG.md](CHANGELOG.md) file for details.
 
 # Copyright and License
 
-[Lucky Wheel](http://lucky-wheel.alexis-gousseau.com/) was written by [Alexis Gousseau](https://github.com/alexis-gss).
+[Lucky Wheel](https://lucky-wheel.alexis-gousseau.com/) was written by [Alexis Gousseau](https://github.com/alexis-gss).
 
 Copyright (c) 2022 and beyond Alexis Gousseau.

@@ -6,6 +6,13 @@ All notable changes to `lucky-wheel` will be documented in this file.
 - This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html),
 - Commits respect [Conventionnal commits](https://www.conventionalcommits.org/en/v1.0.0/) & use [Gitmoji](https://gitmoji.dev/).
 
+## **[v2.1.0] - 04.04.26**
+
+### Added
+-   feat: ✨ add commit message validation from @alexis-gss/husky-config
+
+Full changelog: https://github.com/alexis-gss/lucky-wheel/compare/v2.0.5...v2.1.0
+
 ## **[v2.0.5] - 25.09.25**
 
 ### Changed
